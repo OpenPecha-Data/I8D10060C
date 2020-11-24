@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W5424
   title: གསུང་འབུམ། འཇིགས་མེད་བསམ་གཏན
-  volume: ''
+  volume:
+    fdcc478470314354aeaa0cf64bcd0edb:
+      image_group_id: I5401
+      title: ''
+      volume_number: 1
+      total_pages: 870
+    3025b39c6b3645b9b3bf927e267a6dfd:
+      image_group_id: I5402
+      title: ''
+      volume_number: 2
+      total_pages: 960
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། འཇིགས་མེད་བསམ་གཏན
+  author: ''
+  sku: P008046
+  cover: cover.jpg
+  layers:
+  - pagination
